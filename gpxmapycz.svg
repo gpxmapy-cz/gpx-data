@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="110" height="30" viewBox="0 0 110 30" >
+  <style>
+    text {
+      font-family: Arial, sans-serif;
+      font-style: italic;
+      font-weight: bold;
+      font-size: 18px;
+      fill: #0084ff;
+      filter: drop-shadow(-1px -1px 0px white)
+              drop-shadow(-1px 1px 0px white)
+              drop-shadow(1px 1px 0px white)
+              drop-shadow(1px -1px 0px white);
+    }
+  </style>
+  <text x="4" y="20">gpxmapy.cz</text>
+</svg>
